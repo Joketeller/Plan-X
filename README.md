@@ -7,6 +7,6 @@ A Plan to Get Away Fat and Reduce Weight.
 
 #### Week 1
 
--  [FOOD](FOOD/Week 1.md)
--  [EXERCISE](EXERCISE/Week 1.md)
+-  [FOOD](/FOOD/Week 1.md)
+-  [EXERCISE](/EXERCISE/Week 1.md)
 

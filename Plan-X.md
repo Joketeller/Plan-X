@@ -8,6 +8,6 @@
 
 #### 第一周
 
--  [饮食篇](FOOD/Week 1.md)
--  [运动篇](EXERCISE/Week 1.md)
+-  [饮食篇](/FOOD/Week 1.md)
+-  [运动篇](/EXERCISE/Week 1.md)
 
