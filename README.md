@@ -9,4 +9,5 @@ A Plan to Get Away Fat and Reduce Weight.
 
 -  [FOOD](/FOOD/Week_1.md)
 -  [EXERCISE](/EXERCISE/Week_1.md)
+-  [Other](/Others/Week_1.md)
 
