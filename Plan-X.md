@@ -1,6 +1,6 @@
 # Plan-X中文文档
 
-减脂瘦身计划
+关于个体基因及脂肪、蛋白质、碳水化合物摄入及运动方面的研究。
 
 [English Document](/README.md)
 
@@ -11,4 +11,10 @@
 -  [饮食篇](/FOOD/Week_1.md)
 -  [运动篇](/EXERCISE/Week_1.md)
 -  [随想](/Others/Week_1.md)
+
+#### 第二周
+
+- [饮食篇](/FOOD/Week_2.md)
+- [运动篇](/EXERCISE/Week_2.md)
+- [随想](/Others/Week_2.md)
 
