@@ -18,3 +18,8 @@
 - [运动篇](/EXERCISE/Week_2.md)
 - [随想](/Others/Week_2.md)
 
+#### 第三周
+
+- [饮食篇](/FOOD/Week_3.md)
+- [运动篇](/EXERCISE/Week_3.md)
+- [随想](/Others/Week_3.md)
