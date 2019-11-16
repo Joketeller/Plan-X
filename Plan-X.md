@@ -29,3 +29,9 @@
 - [饮食篇](/FOOD/Week_4.md)
 - [运动篇](/EXERCISE/Week_4.md)
 - [随想](/Others/Week_4.md)
+
+#### 第五周
+
+- [饮食篇](/FOOD/Week_5.md)
+- [运动篇](/EXERCISE/Week_5.md)
+- [随想](/Others/Week_5.md)

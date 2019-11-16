@@ -29,3 +29,9 @@ A Plan to Get Away Fat and Reduce Weight.
 - [FOOD](/FOOD/Week_4.md)
 - [EXERCISE](/EXERCISE/Week_4.md)
 - [Other](/Others/Week_4.md)
+
+#### Week 5
+
+- [FOOD](/FOOD/Week_5.md)
+- [EXERCISE](/EXERCISE/Week_5.md)
+- [Other](/Others/Week_5.md)
