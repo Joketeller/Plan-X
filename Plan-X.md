@@ -41,3 +41,9 @@
 - [饮食篇](/FOOD/Week_6.md)
 - [运动篇](/EXERCISE/Week_6.md)
 - [随想](/Others/Week_6.md)
+
+#### 第七周
+
+- [饮食篇](/FOOD/Week_7md)
+- [运动篇](/EXERCISE/Week_7.md)
+- [随想](/Others/Week_7.md)
