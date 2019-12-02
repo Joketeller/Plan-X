@@ -47,3 +47,18 @@
 - [饮食篇](/FOOD/Week_7md)
 - [运动篇](/EXERCISE/Week_7.md)
 - [随想](/Others/Week_7.md)
+
+
+
+
+
+## 目标进程
+
+- [x] 5kg
+- [x] 10kg
+- [x] 15kg
+- [ ] 20kg
+- [ ] 25kg
+- [ ] 30kg
+- [ ] 35kg
+- [ ] 40kg

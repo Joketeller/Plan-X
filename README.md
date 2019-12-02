@@ -47,3 +47,18 @@ A Plan to Get Away Fat and Reduce Weight.
 - [FOOD](/FOOD/Week_7.md)
 - [EXERCISE](/EXERCISE/Week_7.md)
 - [Other](/Others/Week_7.md)
+
+
+
+
+
+## Target
+
+- [x] 5kg
+- [x] 10kg
+- [x] 15kg
+- [ ] 20kg
+- [ ] 25kg
+- [ ] 30kg
+- [ ] 35kg
+- [ ] 40kg
