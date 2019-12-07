@@ -48,6 +48,18 @@ A Plan to Get Away Fat and Reduce Weight.
 - [EXERCISE](/EXERCISE/Week_7.md)
 - [Other](/Others/Week_7.md)
 
+#### Week 8
+
+- [FOOD](/FOOD/Week_8.md)
+- [EXERCISE](/EXERCISE/Week_8.md)
+- [Other](/Others/Week_8.md)
+
+### To be continued
+
+The plan will stop for 6 weeks because of the final eaxm.
+
+While the special exercise stops, Food plan is stable.
+
 
 
 
