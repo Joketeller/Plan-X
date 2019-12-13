@@ -69,7 +69,7 @@ While the special exercise stops, Food plan is stable.
 - [x] 5kg
 - [x] 10kg
 - [x] 15kg
-- [ ] 20kg
+- [x] 20kg
 - [ ] 25kg
 - [ ] 30kg
 - [ ] 35kg
