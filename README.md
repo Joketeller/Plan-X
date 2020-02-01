@@ -62,6 +62,20 @@ While the special exercise stops, Food plan is stable.
 
 
 
+### Review Time
+
+Up to 2020/01/13, 5kg is lost during 6 weeks.
+
+
+
+### Spring  Holidays
+
+During the holidays, I Keep track of the food plan.
+
+However, because of the 2019-nCoV virus, I can't go to the gym instead of working out at home.
+
+Up to 2020/02/01, 5kg is lost during 4 weeks.
+
 
 
 ## Target
@@ -70,7 +84,7 @@ While the special exercise stops, Food plan is stable.
 - [x] 10kg
 - [x] 15kg
 - [x] 20kg
-- [ ] 25kg
-- [ ] 30kg
+- [x] 25kg
+- [x] 30kg
 - [ ] 35kg
 - [ ] 40kg
