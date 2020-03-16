@@ -78,6 +78,10 @@ Up to 2020/02/01, 5kg is lost during 4 weeks.
 
 
 
+### Up to March 16
+
+Target achieved.
+
 ## Target
 
 - [x] 5kg
@@ -86,5 +90,5 @@ Up to 2020/02/01, 5kg is lost during 4 weeks.
 - [x] 20kg
 - [x] 25kg
 - [x] 30kg
-- [ ] 35kg
-- [ ] 40kg
+- [x] 35kg
+- [x] 40kg
